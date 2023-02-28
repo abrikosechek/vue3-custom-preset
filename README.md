@@ -1,21 +1,21 @@
 # Folders explanation:
 
---layouts:
+* layouts:
   Added layouts to App.vue, that you can change on pages with meta in @/router/index.js;
 
---mixins:
+* mixins:
   Added mixin that allow you to set page title;
 
---plugins:
+* plugins:
   Added axios plugin;
 
---router, pages, components:
+* router, pages, components:
   Comfortable and clear architecture;
 
---static:
+* static:
   Save images here;
 
---store:
+* store:
   Vuex with modular architecture;
   
-* Use "npm install" before "npm run serve"
+Use "npm install" before "npm run serve"
