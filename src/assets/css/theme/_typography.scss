@@ -1,0 +1,29 @@
+// Default font-weight
+$bold: 700;
+$semibold: 600;
+$medium: 500;
+$regular: 400;
+$light: 300;
+
+// Remove extra spacing
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+label,
+a,
+b,
+i,
+em,
+pre,
+strong,
+small,
+sub,
+sup {
+  margin: 0;
+  padding: 0;
+}
