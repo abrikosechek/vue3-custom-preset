@@ -17,3 +17,5 @@
 
 --store:
   Vuex with modular architecture;
+  
+* Use "npm install" before "npm run serve"

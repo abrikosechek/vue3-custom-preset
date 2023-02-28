@@ -1,7 +1,0 @@
-{
-  "useConfigFiles": false,
-  "plugins": {},
-  "router": true,
-  "routerHistoryMode": true,
-  "vuex": true
-}
