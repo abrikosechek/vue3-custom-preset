@@ -1,8 +1,0 @@
-{
-  "useConfigFiles": true,
-  "cssPreprocessor": "sass",
-  "plugins": {
-    "@vue/cli-plugin-router": {},
-    "@vue/cli-plugin-vuex": {}
-  }
-}
